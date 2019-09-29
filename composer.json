@@ -1,0 +1,14 @@
+{
+    "name": "lordvitald/champions",
+    "type": "project",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/",
+            "Models\\": "models/",
+            "Controllers\\": "controllers/"
+        }
+    }
+}
